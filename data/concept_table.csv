@@ -1,0 +1,40 @@
+concept_id,concept_name,subject,prerequisite_id,prerequisite_name,level
+C1002,Calculus,Both,,,0
+C1000,Linear Algebra,Both,,,0
+C1001,Probability,Both,,,0
+C1004,Python Programming,Both,,,0
+C1003,Statistics,Both,,,0
+C1005,Distance Metrics,Both,,,1
+C1020,Activation Functions,DL,C1019,Neural Networks Basics,1
+C1021,Backpropagation,DL,C1019,Neural Networks Basics,1
+C1038,Meta Learning,DL,,,1
+C1037,Neural Architecture Search,DL,,,1
+C1019,Neural Networks Basics,DL,C1000,Linear Algebra,1
+C1006,Attention Mechanism,DL,,,2
+C1025,Autoencoders,DL,C1019,Neural Networks Basics,2
+C1022,Convolutional Neural Networks,DL,C1019,Neural Networks Basics,2
+C1036,Explainable AI,DL,,,2
+C1024,LSTM Networks,DL,C1023,Recurrent Neural Networks,2
+C1023,Recurrent Neural Networks,DL,C1019,Neural Networks Basics,2
+C1035,Self-Supervised Learning,DL,,,2
+C1028,BERT,DL,C1027,Transformers,3
+C1030,Diffusion Models,DL,C1026,Generative Adversarial Networks,3
+C1029,GPT Models,DL,C1027,Transformers,3
+C1026,Generative Adversarial Networks,DL,C1022,Convolutional Neural Networks,3
+C1027,Transformers,DL,C1006,Attention Mechanism,3
+C1032,Cross-Validation,ML,,,1
+C1009,Decision Trees,ML,,,1
+C1031,Hyperparameter Tuning,ML,,,1
+C1010,K-Nearest Neighbors,ML,,,1
+C1007,Linear Regression,ML,,,1
+C1008,Logistic Regression,ML,C1007,Linear Regression,1
+C1013,Gradient Boosting,ML,C1009,Decision Trees,2
+C1014,Naive Bayes,ML,C1001,Probability,2
+C1012,Random Forests,ML,C1009,Decision Trees,2
+C1011,Support Vector Machines,ML,C1000,Linear Algebra,2
+C1018,DBSCAN,ML,C1016,K-Means Clustering,3
+C1034,Ensemble Methods,ML,,,3
+C1017,Hierarchical Clustering,ML,C1016,K-Means Clustering,3
+C1016,K-Means Clustering,ML,C1005,Distance Metrics,3
+C1033,Model Evaluation,ML,,,3
+C1015,Principal Component Analysis,ML,C1000,Linear Algebra,3

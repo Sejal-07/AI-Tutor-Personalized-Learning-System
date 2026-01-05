@@ -1,0 +1,1001 @@
+question_id,concept_id,question_text,difficulty,correct_answer
+Q10000,C1002,Explain the concept of Calculus.,Easy,The fundamental concept of Calculus
+Q10001,C1002,Explain the concept of Calculus.,Medium,Uses mathematical optimization for Calculus
+Q10002,C1000,How do you compute eigenvalues of a matrix?,Medium,Solve det(A-λI)=0
+Q10003,C1000,What is a rank of a matrix?,Easy,ad-bc
+Q10004,C1000,How do you compute eigenvalues of a matrix?,Medium,Solve det(A-λI)=0
+Q10005,C1001,Derive the formula for covariance.,Hard,Requires understanding of underlying mathematics in Probability
+Q10006,C1001,Prove law of large numbers.,Hard,Requires understanding of underlying mathematics in Probability
+Q10007,C1001,What is P(A|B) formula?,Easy,The fundamental concept of Probability
+Q10008,C1001,Explain central limit theorem.,Medium,Uses mathematical optimization for Probability
+Q10009,C1004,Explain the concept of Python Programming.,Hard,Requires understanding of underlying mathematics in Python Programming
+Q10010,C1004,Explain the concept of Python Programming.,Easy,The fundamental concept of Python Programming
+Q10011,C1003,Explain the concept of Statistics.,Easy,The fundamental concept of Statistics
+Q10012,C1003,Explain the concept of Statistics.,Hard,Requires understanding of underlying mathematics in Statistics
+Q10013,C1003,Explain the concept of Statistics.,Medium,Uses mathematical optimization for Statistics
+Q10014,C1005,Explain the concept of Distance Metrics.,Medium,Uses mathematical optimization for Distance Metrics
+Q10015,C1005,Explain the concept of Distance Metrics.,Medium,Uses mathematical optimization for Distance Metrics
+Q10016,C1005,Explain the concept of Distance Metrics.,Easy,The fundamental concept of Distance Metrics
+Q10017,C1005,Explain the concept of Distance Metrics.,Medium,Uses mathematical optimization for Distance Metrics
+Q10018,C1020,Explain the concept of Activation Functions.,Easy,The fundamental concept of Activation Functions
+Q10019,C1020,Explain the concept of Activation Functions.,Medium,Uses mathematical optimization for Activation Functions
+Q10020,C1020,Explain the concept of Activation Functions.,Easy,The fundamental concept of Activation Functions
+Q10021,C1020,Explain the concept of Activation Functions.,Hard,Requires understanding of underlying mathematics in Activation Functions
+Q10022,C1020,Explain the concept of Activation Functions.,Medium,Uses mathematical optimization for Activation Functions
+Q10023,C1021,Explain the concept of Backpropagation.,Easy,The fundamental concept of Backpropagation
+Q10024,C1021,Explain the concept of Backpropagation.,Easy,The fundamental concept of Backpropagation
+Q10025,C1021,Explain the concept of Backpropagation.,Easy,The fundamental concept of Backpropagation
+Q10026,C1021,Explain the concept of Backpropagation.,Medium,Uses mathematical optimization for Backpropagation
+Q10027,C1038,Explain the concept of Meta Learning.,Easy,The fundamental concept of Meta Learning
+Q10028,C1038,Explain the concept of Meta Learning.,Easy,The fundamental concept of Meta Learning
+Q10029,C1038,Explain the concept of Meta Learning.,Medium,Uses mathematical optimization for Meta Learning
+Q10030,C1038,Explain the concept of Meta Learning.,Medium,Uses mathematical optimization for Meta Learning
+Q10031,C1038,Explain the concept of Meta Learning.,Easy,The fundamental concept of Meta Learning
+Q10032,C1037,Explain the concept of Neural Architecture Search.,Easy,The fundamental concept of Neural Architecture Search
+Q10033,C1037,Explain the concept of Neural Architecture Search.,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10034,C1037,Explain the concept of Neural Architecture Search.,Hard,Requires understanding of underlying mathematics in Neural Architecture Search
+Q10035,C1037,Explain the concept of Neural Architecture Search.,Hard,Requires understanding of underlying mathematics in Neural Architecture Search
+Q10036,C1037,Explain the concept of Neural Architecture Search.,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10037,C1019,What is vanishing gradient problem?,Medium,Chain rule application
+Q10038,C1019,What is an activation function?,Easy,Introduces non-linearity
+Q10039,C1019,Compare sigmoid vs ReLU.,Medium,Chain rule application
+Q10040,C1006,Explain the concept of Attention Mechanism.,Medium,Uses mathematical optimization for Attention Mechanism
+Q10041,C1006,Explain the concept of Attention Mechanism.,Easy,The fundamental concept of Attention Mechanism
+Q10042,C1025,Explain the concept of Autoencoders.,Easy,The fundamental concept of Autoencoders
+Q10043,C1025,Explain the concept of Autoencoders.,Easy,The fundamental concept of Autoencoders
+Q10044,C1025,Explain the concept of Autoencoders.,Medium,Uses mathematical optimization for Autoencoders
+Q10045,C1025,Explain the concept of Autoencoders.,Medium,Uses mathematical optimization for Autoencoders
+Q10046,C1022,Analyze computational complexity.,Hard,Requires understanding of underlying mathematics in Convolutional Neural Networks
+Q10047,C1022,Explain receptive field calculation.,Hard,Requires understanding of underlying mathematics in Convolutional Neural Networks
+Q10048,C1036,Explain the concept of Explainable AI.,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10049,C1036,Explain the concept of Explainable AI.,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10050,C1036,Explain the concept of Explainable AI.,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10051,C1024,Explain the concept of LSTM Networks.,Easy,The fundamental concept of LSTM Networks
+Q10052,C1024,Explain the concept of LSTM Networks.,Medium,Uses mathematical optimization for LSTM Networks
+Q10053,C1024,Explain the concept of LSTM Networks.,Medium,Uses mathematical optimization for LSTM Networks
+Q10054,C1023,Explain the concept of Recurrent Neural Networks.,Easy,The fundamental concept of Recurrent Neural Networks
+Q10055,C1023,Explain the concept of Recurrent Neural Networks.,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10056,C1035,Explain the concept of Self-Supervised Learning.,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10057,C1035,Explain the concept of Self-Supervised Learning.,Hard,Requires understanding of underlying mathematics in Self-Supervised Learning
+Q10058,C1035,Explain the concept of Self-Supervised Learning.,Easy,The fundamental concept of Self-Supervised Learning
+Q10059,C1035,Explain the concept of Self-Supervised Learning.,Easy,The fundamental concept of Self-Supervised Learning
+Q10060,C1028,Explain the concept of BERT.,Medium,Uses mathematical optimization for BERT
+Q10061,C1028,Explain the concept of BERT.,Medium,Uses mathematical optimization for BERT
+Q10062,C1028,Explain the concept of BERT.,Easy,The fundamental concept of BERT
+Q10063,C1030,Explain the concept of Diffusion Models.,Easy,The fundamental concept of Diffusion Models
+Q10064,C1030,Explain the concept of Diffusion Models.,Medium,Uses mathematical optimization for Diffusion Models
+Q10065,C1030,Explain the concept of Diffusion Models.,Easy,The fundamental concept of Diffusion Models
+Q10066,C1030,Explain the concept of Diffusion Models.,Medium,Uses mathematical optimization for Diffusion Models
+Q10067,C1030,Explain the concept of Diffusion Models.,Easy,The fundamental concept of Diffusion Models
+Q10068,C1029,Explain the concept of GPT Models.,Medium,Uses mathematical optimization for GPT Models
+Q10069,C1029,Explain the concept of GPT Models.,Easy,The fundamental concept of GPT Models
+Q10070,C1029,Explain the concept of GPT Models.,Easy,The fundamental concept of GPT Models
+Q10071,C1029,Explain the concept of GPT Models.,Easy,The fundamental concept of GPT Models
+Q10072,C1026,Explain the concept of Generative Adversarial Networks.,Easy,The fundamental concept of Generative Adversarial Networks
+Q10073,C1026,Explain the concept of Generative Adversarial Networks.,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10074,C1026,Explain the concept of Generative Adversarial Networks.,Easy,The fundamental concept of Generative Adversarial Networks
+Q10075,C1026,Explain the concept of Generative Adversarial Networks.,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10076,C1026,Explain the concept of Generative Adversarial Networks.,Easy,The fundamental concept of Generative Adversarial Networks
+Q10077,C1027,Explain the concept of Transformers.,Easy,The fundamental concept of Transformers
+Q10078,C1027,Explain the concept of Transformers.,Medium,Uses mathematical optimization for Transformers
+Q10079,C1027,Explain the concept of Transformers.,Medium,Uses mathematical optimization for Transformers
+Q10080,C1027,Explain the concept of Transformers.,Medium,Uses mathematical optimization for Transformers
+Q10081,C1032,Explain the concept of Cross-Validation.,Medium,Uses mathematical optimization for Cross-Validation
+Q10082,C1032,Explain the concept of Cross-Validation.,Easy,The fundamental concept of Cross-Validation
+Q10083,C1032,Explain the concept of Cross-Validation.,Hard,Requires understanding of underlying mathematics in Cross-Validation
+Q10084,C1032,Explain the concept of Cross-Validation.,Hard,Requires understanding of underlying mathematics in Cross-Validation
+Q10085,C1009,How to prevent overfitting in decision trees?,Medium,Uses mathematical optimization for Decision Trees
+Q10086,C1009,What is Gini impurity?,Easy,The fundamental concept of Decision Trees
+Q10087,C1009,Analyze time complexity of decision trees.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10088,C1009,What is entropy in decision trees?,Easy,The fundamental concept of Decision Trees
+Q10089,C1009,What are pruning techniques?,Medium,Uses mathematical optimization for Decision Trees
+Q10090,C1031,Explain the concept of Hyperparameter Tuning.,Easy,The fundamental concept of Hyperparameter Tuning
+Q10091,C1031,Explain the concept of Hyperparameter Tuning.,Hard,Requires understanding of underlying mathematics in Hyperparameter Tuning
+Q10092,C1031,Explain the concept of Hyperparameter Tuning.,Easy,The fundamental concept of Hyperparameter Tuning
+Q10093,C1031,Explain the concept of Hyperparameter Tuning.,Easy,The fundamental concept of Hyperparameter Tuning
+Q10094,C1010,Explain the concept of K-Nearest Neighbors.,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10095,C1010,Explain the concept of K-Nearest Neighbors.,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10096,C1010,Explain the concept of K-Nearest Neighbors.,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10097,C1010,Explain the concept of K-Nearest Neighbors.,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10098,C1010,Explain the concept of K-Nearest Neighbors.,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10099,C1007,What is R-squared?,Medium,Uses mathematical optimization for Linear Regression
+Q10100,C1007,What is R-squared?,Medium,Uses mathematical optimization for Linear Regression
+Q10101,C1008,Explain the concept of Logistic Regression.,Hard,Requires understanding of underlying mathematics in Logistic Regression
+Q10102,C1008,Explain the concept of Logistic Regression.,Easy,The fundamental concept of Logistic Regression
+Q10103,C1008,Explain the concept of Logistic Regression.,Medium,Uses mathematical optimization for Logistic Regression
+Q10104,C1008,Explain the concept of Logistic Regression.,Medium,Uses mathematical optimization for Logistic Regression
+Q10105,C1008,Explain the concept of Logistic Regression.,Medium,Uses mathematical optimization for Logistic Regression
+Q10106,C1013,Explain the concept of Gradient Boosting.,Easy,The fundamental concept of Gradient Boosting
+Q10107,C1013,Explain the concept of Gradient Boosting.,Medium,Uses mathematical optimization for Gradient Boosting
+Q10108,C1013,Explain the concept of Gradient Boosting.,Easy,The fundamental concept of Gradient Boosting
+Q10109,C1013,Explain the concept of Gradient Boosting.,Easy,The fundamental concept of Gradient Boosting
+Q10110,C1014,Explain the concept of Naive Bayes.,Medium,Uses mathematical optimization for Naive Bayes
+Q10111,C1014,Explain the concept of Naive Bayes.,Easy,The fundamental concept of Naive Bayes
+Q10112,C1012,Explain the concept of Random Forests.,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10113,C1012,Explain the concept of Random Forests.,Medium,Uses mathematical optimization for Random Forests
+Q10114,C1012,Explain the concept of Random Forests.,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10115,C1012,Explain the concept of Random Forests.,Medium,Uses mathematical optimization for Random Forests
+Q10116,C1011,Explain the concept of Support Vector Machines.,Hard,Requires understanding of underlying mathematics in Support Vector Machines
+Q10117,C1011,Explain the concept of Support Vector Machines.,Hard,Requires understanding of underlying mathematics in Support Vector Machines
+Q10118,C1011,Explain the concept of Support Vector Machines.,Easy,The fundamental concept of Support Vector Machines
+Q10119,C1011,Explain the concept of Support Vector Machines.,Easy,The fundamental concept of Support Vector Machines
+Q10120,C1018,Explain the concept of DBSCAN.,Medium,Uses mathematical optimization for DBSCAN
+Q10121,C1018,Explain the concept of DBSCAN.,Medium,Uses mathematical optimization for DBSCAN
+Q10122,C1034,Explain the concept of Ensemble Methods.,Medium,Uses mathematical optimization for Ensemble Methods
+Q10123,C1034,Explain the concept of Ensemble Methods.,Medium,Uses mathematical optimization for Ensemble Methods
+Q10124,C1034,Explain the concept of Ensemble Methods.,Easy,The fundamental concept of Ensemble Methods
+Q10125,C1034,Explain the concept of Ensemble Methods.,Hard,Requires understanding of underlying mathematics in Ensemble Methods
+Q10126,C1034,Explain the concept of Ensemble Methods.,Hard,Requires understanding of underlying mathematics in Ensemble Methods
+Q10127,C1017,Explain the concept of Hierarchical Clustering.,Hard,Requires understanding of underlying mathematics in Hierarchical Clustering
+Q10128,C1017,Explain the concept of Hierarchical Clustering.,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10129,C1017,Explain the concept of Hierarchical Clustering.,Easy,The fundamental concept of Hierarchical Clustering
+Q10130,C1017,Explain the concept of Hierarchical Clustering.,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10131,C1016,Explain the concept of K-Means Clustering.,Easy,The fundamental concept of K-Means Clustering
+Q10132,C1016,Explain the concept of K-Means Clustering.,Medium,Uses mathematical optimization for K-Means Clustering
+Q10133,C1016,Explain the concept of K-Means Clustering.,Medium,Uses mathematical optimization for K-Means Clustering
+Q10134,C1033,Explain the concept of Model Evaluation.,Medium,Uses mathematical optimization for Model Evaluation
+Q10135,C1033,Explain the concept of Model Evaluation.,Easy,The fundamental concept of Model Evaluation
+Q10136,C1015,Explain the concept of Principal Component Analysis.,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10137,C1015,Explain the concept of Principal Component Analysis.,Easy,The fundamental concept of Principal Component Analysis
+Q10138,C1015,Explain the concept of Principal Component Analysis.,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10139,C1015,Explain the concept of Principal Component Analysis.,Easy,The fundamental concept of Principal Component Analysis
+Q10140,C1015,List Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10141,C1032,Explain the working mechanism of Cross-Validation?,Medium,Uses mathematical optimization for Cross-Validation
+Q10142,C1012,Define Random Forests?,Easy,The fundamental concept of Random Forests
+Q10143,C1005,How does the working mechanism of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10144,C1008,Explain the advantages of Logistic Regression?,Medium,Uses mathematical optimization for Logistic Regression
+Q10145,C1001,Explain central limit theorem.,Medium,Uses mathematical optimization for Probability
+Q10146,C1017,What is Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10147,C1027,True or False: Transformers?,Easy,The fundamental concept of Transformers
+Q10148,C1024,Evaluate the optimization of LSTM Networks in practical applications?,Hard,Requires understanding of underlying mathematics in LSTM Networks
+Q10149,C1021,Analyze the mathematical foundation of Backpropagation in practical applications?,Hard,Requires understanding of underlying mathematics in Backpropagation
+Q10150,C1029,Describe the limitations of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10151,C1007,Compare OLS vs gradient descent.,Hard,Requires understanding of underlying mathematics in Linear Regression
+Q10152,C1005,Compare the working mechanism of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10153,C1009,Explain information gain calculation.,Medium,Uses mathematical optimization for Decision Trees
+Q10154,C1024,What is LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10155,C1007,How do you handle multicollinearity?,Medium,Uses mathematical optimization for Linear Regression
+Q10156,C1009,How does a decision tree split data?,Easy,The fundamental concept of Decision Trees
+Q10157,C1031,List Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10158,C1013,Compare the advantages of Gradient Boosting?,Medium,Uses mathematical optimization for Gradient Boosting
+Q10159,C1010,Compare the working mechanism of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10160,C1018,Describe the advantages of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10161,C1016,List K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10162,C1024,List LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10163,C1022,Explain stride and padding.,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10164,C1009,What is Gini impurity?,Easy,The fundamental concept of Decision Trees
+Q10165,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10166,C1036,What is Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10167,C1028,What is BERT?,Easy,The fundamental concept of BERT
+Q10168,C1015,Describe the working mechanism of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10169,C1001,Explain central limit theorem.,Medium,Uses mathematical optimization for Probability
+Q10170,C1026,List Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10171,C1022,Why use CNNs for images?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10172,C1037,Evaluate the mathematical foundation of Neural Architecture Search in practical applications?,Hard,Requires understanding of underlying mathematics in Neural Architecture Search
+Q10173,C1029,Describe the working mechanism of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10174,C1010,How does the limitations of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10175,C1027,Calculate the working mechanism of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10176,C1006,True or False: Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10177,C1029,True or False: GPT Models?,Easy,The fundamental concept of GPT Models
+Q10178,C1003,Evaluate the optimization of Statistics in practical applications?,Hard,Requires understanding of underlying mathematics in Statistics
+Q10179,C1015,What is Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10180,C1012,How does the limitations of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10181,C1021,Design the implementation of Backpropagation in practical applications?,Hard,Requires understanding of underlying mathematics in Backpropagation
+Q10182,C1023,Calculate the working mechanism of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10183,C1002,True or False: Calculus?,Easy,The fundamental concept of Calculus
+Q10184,C1035,Compare the advantages of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10185,C1007,What is the assumption about errors?,Easy,The fundamental concept of Linear Regression
+Q10186,C1012,Identify Random Forests?,Easy,The fundamental concept of Random Forests
+Q10187,C1030,Design the optimization of Diffusion Models in practical applications?,Hard,Requires understanding of underlying mathematics in Diffusion Models
+Q10188,C1022,What is pooling?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10189,C1014,What is Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10190,C1003,Compare the advantages of Statistics?,Medium,Uses mathematical optimization for Statistics
+Q10191,C1017,Calculate the advantages of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10192,C1020,Calculate the working mechanism of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10193,C1000,"What is the dot product of vectors [1,2] and [3,4]?",Easy,ad-bc
+Q10194,C1004,List Python Programming?,Easy,The fundamental concept of Python Programming
+Q10195,C1028,True or False: BERT?,Easy,The fundamental concept of BERT
+Q10196,C1015,Define Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10197,C1010,Compare the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10198,C1038,Identify Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10199,C1003,Identify Statistics?,Easy,The fundamental concept of Statistics
+Q10200,C1031,True or False: Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10201,C1021,Derive the optimization of Backpropagation in practical applications?,Hard,Requires understanding of underlying mathematics in Backpropagation
+Q10202,C1025,Describe the limitations of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10203,C1026,Analyze the mathematical foundation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10204,C1000,Explain the difference between rank and nullity.,Medium,Solve det(A-λI)=0
+Q10205,C1028,Evaluate the optimization of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10206,C1038,Compare the limitations of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10207,C1005,What is Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10208,C1018,Define DBSCAN?,Easy,The fundamental concept of DBSCAN
+Q10209,C1025,Identify Autoencoders?,Easy,The fundamental concept of Autoencoders
+Q10210,C1027,Evaluate the optimization of Transformers in practical applications?,Hard,Requires understanding of underlying mathematics in Transformers
+Q10211,C1036,Describe the limitations of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10212,C1006,Design the mathematical foundation of Attention Mechanism in practical applications?,Hard,Requires understanding of underlying mathematics in Attention Mechanism
+Q10213,C1038,Describe the working mechanism of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10214,C1034,True or False: Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10215,C1025,Prove the optimization of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10216,C1009,Compare ID3 vs C4.5 vs CART.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10217,C1031,What is Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10218,C1024,Calculate the limitations of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10219,C1028,Define BERT?,Easy,The fundamental concept of BERT
+Q10220,C1019,What is vanishing gradient problem?,Medium,Chain rule application
+Q10221,C1031,Identify Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10222,C1014,List Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10223,C1012,True or False: Random Forests?,Easy,The fundamental concept of Random Forests
+Q10224,C1030,Explain the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10225,C1029,Evaluate the implementation of GPT Models in practical applications?,Hard,Requires understanding of underlying mathematics in GPT Models
+Q10226,C1017,True or False: Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10227,C1038,Compare the working mechanism of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10228,C1029,How does the limitations of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10229,C1009,Explain information gain calculation.,Medium,Uses mathematical optimization for Decision Trees
+Q10230,C1030,What is Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10231,C1035,List Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10232,C1021,Compare the limitations of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10233,C1020,True or False: Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10234,C1030,True or False: Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10235,C1023,Describe the advantages of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10236,C1035,Identify Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10237,C1026,List Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10238,C1038,Identify Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10239,C1022,Why use CNNs for images?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10240,C1007,What is the objective function in linear regression?,Easy,The fundamental concept of Linear Regression
+Q10241,C1009,How to prevent overfitting in decision trees?,Medium,Uses mathematical optimization for Decision Trees
+Q10242,C1001,What is P(A|B) formula?,Easy,The fundamental concept of Probability
+Q10243,C1013,How does the advantages of Gradient Boosting?,Medium,Uses mathematical optimization for Gradient Boosting
+Q10244,C1016,Derive the implementation of K-Means Clustering in practical applications?,Hard,Requires understanding of underlying mathematics in K-Means Clustering
+Q10245,C1025,How does the advantages of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10246,C1020,Explain the limitations of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10247,C1009,Analyze time complexity of decision trees.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10248,C1038,Describe the working mechanism of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10249,C1033,Identify Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10250,C1009,How does a decision tree split data?,Easy,The fundamental concept of Decision Trees
+Q10251,C1001,Explain central limit theorem.,Medium,Uses mathematical optimization for Probability
+Q10252,C1012,List Random Forests?,Easy,The fundamental concept of Random Forests
+Q10253,C1007,What is the objective function in linear regression?,Easy,The fundamental concept of Linear Regression
+Q10254,C1037,Explain the working mechanism of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10255,C1030,Explain the limitations of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10256,C1017,What is Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10257,C1003,Evaluate the implementation of Statistics in practical applications?,Hard,Requires understanding of underlying mathematics in Statistics
+Q10258,C1018,Explain the advantages of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10259,C1003,Compare the limitations of Statistics?,Medium,Uses mathematical optimization for Statistics
+Q10260,C1017,Compare the limitations of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10261,C1010,What is K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10262,C1008,Explain the limitations of Logistic Regression?,Medium,Uses mathematical optimization for Logistic Regression
+Q10263,C1013,Evaluate the optimization of Gradient Boosting in practical applications?,Hard,Requires understanding of underlying mathematics in Gradient Boosting
+Q10264,C1016,True or False: K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10265,C1021,How does the limitations of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10266,C1035,Explain the working mechanism of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10267,C1003,True or False: Statistics?,Easy,The fundamental concept of Statistics
+Q10268,C1007,What is R-squared?,Medium,Uses mathematical optimization for Linear Regression
+Q10269,C1028,Identify BERT?,Easy,The fundamental concept of BERT
+Q10270,C1007,What does the coefficient represent?,Easy,The fundamental concept of Linear Regression
+Q10271,C1036,Evaluate the optimization of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10272,C1038,List Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10273,C1024,True or False: LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10274,C1006,Calculate the limitations of Attention Mechanism?,Medium,Uses mathematical optimization for Attention Mechanism
+Q10275,C1014,True or False: Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10276,C1019,Compare sigmoid vs ReLU.,Medium,Chain rule application
+Q10277,C1015,Calculate the advantages of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10278,C1030,Describe the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10279,C1000,"What is the determinant of a 2x2 matrix [[a,b],[c,d]]?",Easy,ad-bc
+Q10280,C1007,What is the objective function in linear regression?,Easy,The fundamental concept of Linear Regression
+Q10281,C1025,Analyze the mathematical foundation of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10282,C1029,Identify GPT Models?,Easy,The fundamental concept of GPT Models
+Q10283,C1007,Compare OLS vs gradient descent.,Hard,Requires understanding of underlying mathematics in Linear Regression
+Q10284,C1014,Compare the advantages of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10285,C1032,Describe the advantages of Cross-Validation?,Medium,Uses mathematical optimization for Cross-Validation
+Q10286,C1010,True or False: K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10287,C1038,Describe the advantages of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10288,C1029,Derive the implementation of GPT Models in practical applications?,Hard,Requires understanding of underlying mathematics in GPT Models
+Q10289,C1027,Analyze the optimization of Transformers in practical applications?,Hard,Requires understanding of underlying mathematics in Transformers
+Q10290,C1011,What is Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10291,C1021,Calculate the limitations of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10292,C1008,Calculate the limitations of Logistic Regression?,Medium,Uses mathematical optimization for Logistic Regression
+Q10293,C1022,Explain receptive field calculation.,Hard,Requires understanding of underlying mathematics in Convolutional Neural Networks
+Q10294,C1012,Describe the advantages of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10295,C1006,Analyze the mathematical foundation of Attention Mechanism in practical applications?,Hard,Requires understanding of underlying mathematics in Attention Mechanism
+Q10296,C1010,Calculate the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10297,C1014,Calculate the limitations of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10298,C1018,Explain the limitations of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10299,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10300,C1032,Explain the working mechanism of Cross-Validation?,Medium,Uses mathematical optimization for Cross-Validation
+Q10301,C1017,Prove the mathematical foundation of Hierarchical Clustering in practical applications?,Hard,Requires understanding of underlying mathematics in Hierarchical Clustering
+Q10302,C1009,What is Gini impurity?,Easy,The fundamental concept of Decision Trees
+Q10303,C1020,Identify Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10304,C1037,What is Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10305,C1031,True or False: Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10306,C1027,How does the working mechanism of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10307,C1020,What is Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10308,C1006,Define Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10309,C1015,Prove the mathematical foundation of Principal Component Analysis in practical applications?,Hard,Requires understanding of underlying mathematics in Principal Component Analysis
+Q10310,C1033,Explain the limitations of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10311,C1024,True or False: LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10312,C1025,How does the working mechanism of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10313,C1011,What is Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10314,C1010,How does the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10315,C1018,Explain the working mechanism of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10316,C1030,True or False: Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10317,C1030,What is Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10318,C1011,Calculate the working mechanism of Support Vector Machines?,Medium,Uses mathematical optimization for Support Vector Machines
+Q10319,C1020,Explain the working mechanism of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10320,C1013,What is Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10321,C1019,Define forward propagation.,Easy,Introduces non-linearity
+Q10322,C1008,What is Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10323,C1036,Compare the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10324,C1020,What is Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10325,C1030,Calculate the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10326,C1017,List Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10327,C1026,Define Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10328,C1037,List Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10329,C1010,Evaluate the implementation of K-Nearest Neighbors in practical applications?,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10330,C1011,Describe the working mechanism of Support Vector Machines?,Medium,Uses mathematical optimization for Support Vector Machines
+Q10331,C1013,Define Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10332,C1038,How does the working mechanism of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10333,C1023,Calculate the working mechanism of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10334,C1006,How does the working mechanism of Attention Mechanism?,Medium,Uses mathematical optimization for Attention Mechanism
+Q10335,C1006,Define Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10336,C1013,True or False: Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10337,C1000,What is singular value decomposition?,Medium,Solve det(A-λI)=0
+Q10338,C1013,Derive the mathematical foundation of Gradient Boosting in practical applications?,Hard,Requires understanding of underlying mathematics in Gradient Boosting
+Q10339,C1016,Calculate the advantages of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10340,C1000,How do you compute eigenvalues of a matrix?,Medium,Solve det(A-λI)=0
+Q10341,C1038,Evaluate the implementation of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10342,C1037,Explain the advantages of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10343,C1026,Analyze the implementation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10344,C1025,Evaluate the implementation of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10345,C1026,List Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10346,C1013,How does the limitations of Gradient Boosting?,Medium,Uses mathematical optimization for Gradient Boosting
+Q10347,C1004,List Python Programming?,Easy,The fundamental concept of Python Programming
+Q10348,C1010,What is K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10349,C1034,Identify Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10350,C1011,List Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10351,C1029,Analyze the optimization of GPT Models in practical applications?,Hard,Requires understanding of underlying mathematics in GPT Models
+Q10352,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10353,C1024,Calculate the working mechanism of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10354,C1032,What is Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10355,C1024,Compare the working mechanism of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10356,C1019,Compare sigmoid vs ReLU.,Medium,Chain rule application
+Q10357,C1008,Explain the limitations of Logistic Regression?,Medium,Uses mathematical optimization for Logistic Regression
+Q10358,C1012,True or False: Random Forests?,Easy,The fundamental concept of Random Forests
+Q10359,C1011,True or False: Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10360,C1020,Calculate the working mechanism of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10361,C1029,Compare the limitations of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10362,C1026,Explain the working mechanism of Generative Adversarial Networks?,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10363,C1026,How does the advantages of Generative Adversarial Networks?,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10364,C1001,What is P(A|B) formula?,Easy,The fundamental concept of Probability
+Q10365,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10366,C1012,Describe the advantages of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10367,C1011,Analyze the mathematical foundation of Support Vector Machines in practical applications?,Hard,Requires understanding of underlying mathematics in Support Vector Machines
+Q10368,C1036,List Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10369,C1035,Evaluate the implementation of Self-Supervised Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Self-Supervised Learning
+Q10370,C1024,True or False: LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10371,C1018,Analyze the optimization of DBSCAN in practical applications?,Hard,Requires understanding of underlying mathematics in DBSCAN
+Q10372,C1016,Compare the advantages of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10373,C1030,Describe the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10374,C1022,What is pooling?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10375,C1031,Calculate the advantages of Hyperparameter Tuning?,Medium,Uses mathematical optimization for Hyperparameter Tuning
+Q10376,C1015,Compare the limitations of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10377,C1011,Derive the optimization of Support Vector Machines in practical applications?,Hard,Requires understanding of underlying mathematics in Support Vector Machines
+Q10378,C1034,How does the advantages of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10379,C1006,Evaluate the mathematical foundation of Attention Mechanism in practical applications?,Hard,Requires understanding of underlying mathematics in Attention Mechanism
+Q10380,C1024,Derive the mathematical foundation of LSTM Networks in practical applications?,Hard,Requires understanding of underlying mathematics in LSTM Networks
+Q10381,C1038,List Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10382,C1013,How does the advantages of Gradient Boosting?,Medium,Uses mathematical optimization for Gradient Boosting
+Q10383,C1036,Define Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10384,C1019,Explain backpropagation algorithm.,Medium,Chain rule application
+Q10385,C1030,What is Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10386,C1034,Define Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10387,C1000,What is a rank of a matrix?,Easy,ad-bc
+Q10388,C1000,Explain the difference between rank and nullity.,Medium,Solve det(A-λI)=0
+Q10389,C1015,Explain the working mechanism of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10390,C1021,Explain the advantages of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10391,C1034,Describe the working mechanism of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10392,C1012,Prove the implementation of Random Forests in practical applications?,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10393,C1031,Define Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10394,C1003,What is Statistics?,Easy,The fundamental concept of Statistics
+Q10395,C1021,List Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10396,C1009,What is Gini impurity?,Easy,The fundamental concept of Decision Trees
+Q10397,C1024,Calculate the limitations of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10398,C1011,True or False: Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10399,C1018,How does the advantages of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10400,C1025,Describe the limitations of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10401,C1009,What are pruning techniques?,Medium,Uses mathematical optimization for Decision Trees
+Q10402,C1028,List BERT?,Easy,The fundamental concept of BERT
+Q10403,C1014,Identify Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10404,C1029,What is GPT Models?,Easy,The fundamental concept of GPT Models
+Q10405,C1012,Compare the limitations of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10406,C1037,List Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10407,C1007,What is R-squared?,Medium,Uses mathematical optimization for Linear Regression
+Q10408,C1038,Identify Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10409,C1001,Explain Monte Carlo methods.,Hard,Requires understanding of underlying mathematics in Probability
+Q10410,C1027,Identify Transformers?,Easy,The fundamental concept of Transformers
+Q10411,C1020,Describe the advantages of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10412,C1017,Define Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10413,C1016,Describe the advantages of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10414,C1001,Define independent events.,Easy,The fundamental concept of Probability
+Q10415,C1035,Describe the working mechanism of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10416,C1014,Describe the working mechanism of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10417,C1017,Compare the limitations of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10418,C1004,Design the mathematical foundation of Python Programming in practical applications?,Hard,Requires understanding of underlying mathematics in Python Programming
+Q10419,C1026,List Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10420,C1032,Compare the advantages of Cross-Validation?,Medium,Uses mathematical optimization for Cross-Validation
+Q10421,C1021,Calculate the working mechanism of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10422,C1016,Calculate the limitations of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10423,C1031,What is Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10424,C1030,Compare the limitations of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10425,C1037,How does the limitations of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10426,C1021,Compare the working mechanism of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10427,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10428,C1032,Describe the working mechanism of Cross-Validation?,Medium,Uses mathematical optimization for Cross-Validation
+Q10429,C1006,Evaluate the optimization of Attention Mechanism in practical applications?,Hard,Requires understanding of underlying mathematics in Attention Mechanism
+Q10430,C1011,Define Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10431,C1024,Explain the advantages of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10432,C1037,Derive the mathematical foundation of Neural Architecture Search in practical applications?,Hard,Requires understanding of underlying mathematics in Neural Architecture Search
+Q10433,C1004,True or False: Python Programming?,Easy,The fundamental concept of Python Programming
+Q10434,C1034,Identify Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10435,C1025,Calculate the advantages of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10436,C1025,How does the limitations of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10437,C1034,Explain the limitations of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10438,C1015,Define Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10439,C1028,Describe the limitations of BERT?,Medium,Uses mathematical optimization for BERT
+Q10440,C1026,Derive the implementation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10441,C1036,Define Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10442,C1025,Describe the limitations of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10443,C1009,Explain information gain calculation.,Medium,Uses mathematical optimization for Decision Trees
+Q10444,C1034,Define Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10445,C1036,Explain the limitations of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10446,C1026,Calculate the working mechanism of Generative Adversarial Networks?,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10447,C1020,Define Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10448,C1015,Derive the mathematical foundation of Principal Component Analysis in practical applications?,Hard,Requires understanding of underlying mathematics in Principal Component Analysis
+Q10449,C1031,Design the implementation of Hyperparameter Tuning in practical applications?,Hard,Requires understanding of underlying mathematics in Hyperparameter Tuning
+Q10450,C1030,Evaluate the mathematical foundation of Diffusion Models in practical applications?,Hard,Requires understanding of underlying mathematics in Diffusion Models
+Q10451,C1009,Analyze time complexity of decision trees.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10452,C1014,Calculate the advantages of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10453,C1003,True or False: Statistics?,Easy,The fundamental concept of Statistics
+Q10454,C1036,List Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10455,C1029,Describe the advantages of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10456,C1028,Design the optimization of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10457,C1010,Define K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10458,C1012,True or False: Random Forests?,Easy,The fundamental concept of Random Forests
+Q10459,C1007,Explain regularization in linear regression.,Hard,Requires understanding of underlying mathematics in Linear Regression
+Q10460,C1038,Describe the advantages of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10461,C1009,Explain random forest bagging.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10462,C1007,What does the coefficient represent?,Easy,The fundamental concept of Linear Regression
+Q10463,C1024,Define LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10464,C1033,Design the optimization of Model Evaluation in practical applications?,Hard,Requires understanding of underlying mathematics in Model Evaluation
+Q10465,C1034,Evaluate the mathematical foundation of Ensemble Methods in practical applications?,Hard,Requires understanding of underlying mathematics in Ensemble Methods
+Q10466,C1024,True or False: LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10467,C1016,List K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10468,C1019,What is an activation function?,Easy,Introduces non-linearity
+Q10469,C1036,Explain the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10470,C1028,Design the optimization of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10471,C1014,True or False: Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10472,C1002,Calculate the limitations of Calculus?,Medium,Uses mathematical optimization for Calculus
+Q10473,C1035,Compare the working mechanism of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10474,C1024,Describe the working mechanism of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10475,C1038,Derive the optimization of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10476,C1025,Describe the working mechanism of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10477,C1032,List Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10478,C1018,Derive the implementation of DBSCAN in practical applications?,Hard,Requires understanding of underlying mathematics in DBSCAN
+Q10479,C1035,True or False: Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10480,C1027,Explain the working mechanism of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10481,C1027,Identify Transformers?,Easy,The fundamental concept of Transformers
+Q10482,C1009,Compare ID3 vs C4.5 vs CART.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10483,C1024,Explain the working mechanism of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10484,C1019,Define forward propagation.,Easy,Introduces non-linearity
+Q10485,C1000,What is singular value decomposition?,Medium,Solve det(A-λI)=0
+Q10486,C1029,Identify GPT Models?,Easy,The fundamental concept of GPT Models
+Q10487,C1028,What is BERT?,Easy,The fundamental concept of BERT
+Q10488,C1030,How does the advantages of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10489,C1023,Define Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10490,C1007,What does the coefficient represent?,Easy,The fundamental concept of Linear Regression
+Q10491,C1011,List Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10492,C1002,True or False: Calculus?,Easy,The fundamental concept of Calculus
+Q10493,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10494,C1000,"What is the dot product of vectors [1,2] and [3,4]?",Easy,ad-bc
+Q10495,C1004,Define Python Programming?,Easy,The fundamental concept of Python Programming
+Q10496,C1015,What is Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10497,C1001,Prove law of large numbers.,Hard,Requires understanding of underlying mathematics in Probability
+Q10498,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10499,C1001,What is Markov inequality?,Medium,Uses mathematical optimization for Probability
+Q10500,C1027,Analyze the mathematical foundation of Transformers in practical applications?,Hard,Requires understanding of underlying mathematics in Transformers
+Q10501,C1015,Compare the advantages of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10502,C1001,What is Markov inequality?,Medium,Uses mathematical optimization for Probability
+Q10503,C1012,Design the mathematical foundation of Random Forests in practical applications?,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10504,C1035,Describe the advantages of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10505,C1029,True or False: GPT Models?,Easy,The fundamental concept of GPT Models
+Q10506,C1005,What is Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10507,C1000,What is singular value decomposition?,Medium,Solve det(A-λI)=0
+Q10508,C1010,List K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10509,C1004,Identify Python Programming?,Easy,The fundamental concept of Python Programming
+Q10510,C1004,True or False: Python Programming?,Easy,The fundamental concept of Python Programming
+Q10511,C1019,Compare sigmoid vs ReLU.,Medium,Chain rule application
+Q10512,C1008,Describe the advantages of Logistic Regression?,Medium,Uses mathematical optimization for Logistic Regression
+Q10513,C1030,Describe the limitations of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10514,C1023,Describe the working mechanism of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10515,C1002,List Calculus?,Easy,The fundamental concept of Calculus
+Q10516,C1037,List Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10517,C1036,How does the advantages of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10518,C1014,True or False: Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10519,C1012,What is Random Forests?,Easy,The fundamental concept of Random Forests
+Q10520,C1026,Define Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10521,C1006,Define Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10522,C1023,How does the advantages of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10523,C1019,Explain backpropagation algorithm.,Medium,Chain rule application
+Q10524,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10525,C1023,Derive the mathematical foundation of Recurrent Neural Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Recurrent Neural Networks
+Q10526,C1027,List Transformers?,Easy,The fundamental concept of Transformers
+Q10527,C1037,How does the limitations of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10528,C1017,Compare the working mechanism of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10529,C1002,List Calculus?,Easy,The fundamental concept of Calculus
+Q10530,C1036,Analyze the optimization of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10531,C1010,True or False: K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10532,C1036,True or False: Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10533,C1022,Why use CNNs for images?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10534,C1025,Calculate the limitations of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10535,C1034,Evaluate the mathematical foundation of Ensemble Methods in practical applications?,Hard,Requires understanding of underlying mathematics in Ensemble Methods
+Q10536,C1020,List Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10537,C1038,Describe the limitations of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10538,C1031,True or False: Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10539,C1021,Identify Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10540,C1033,True or False: Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10541,C1012,Calculate the limitations of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10542,C1019,What is vanishing gradient problem?,Medium,Chain rule application
+Q10543,C1032,List Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10544,C1017,How does the advantages of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10545,C1025,Identify Autoencoders?,Easy,The fundamental concept of Autoencoders
+Q10546,C1020,Identify Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10547,C1021,Define Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10548,C1033,Define Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10549,C1028,Design the optimization of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10550,C1027,True or False: Transformers?,Easy,The fundamental concept of Transformers
+Q10551,C1011,Describe the advantages of Support Vector Machines?,Medium,Uses mathematical optimization for Support Vector Machines
+Q10552,C1006,Describe the limitations of Attention Mechanism?,Medium,Uses mathematical optimization for Attention Mechanism
+Q10553,C1034,Calculate the limitations of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10554,C1024,Define LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10555,C1011,True or False: Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10556,C1037,Define Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10557,C1015,List Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10558,C1030,What is Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10559,C1022,How to handle overfitting in CNNs?,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10560,C1012,Analyze the implementation of Random Forests in practical applications?,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10561,C1034,Define Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10562,C1005,Compare the limitations of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10563,C1019,Compare sigmoid vs ReLU.,Medium,Chain rule application
+Q10564,C1005,How does the working mechanism of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10565,C1017,Describe the advantages of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10566,C1010,Explain the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10567,C1013,Explain the limitations of Gradient Boosting?,Medium,Uses mathematical optimization for Gradient Boosting
+Q10568,C1030,Explain the advantages of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10569,C1022,What is pooling?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10570,C1001,What is Bayes theorem?,Easy,The fundamental concept of Probability
+Q10571,C1025,Design the mathematical foundation of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10572,C1025,Calculate the advantages of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10573,C1017,List Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10574,C1011,List Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10575,C1009,Explain information gain calculation.,Medium,Uses mathematical optimization for Decision Trees
+Q10576,C1037,Calculate the advantages of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10577,C1010,Explain the limitations of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10578,C1004,True or False: Python Programming?,Easy,The fundamental concept of Python Programming
+Q10579,C1034,Explain the working mechanism of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10580,C1031,True or False: Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10581,C1030,Prove the mathematical foundation of Diffusion Models in practical applications?,Hard,Requires understanding of underlying mathematics in Diffusion Models
+Q10582,C1006,Identify Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10583,C1037,Define Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10584,C1004,Identify Python Programming?,Easy,The fundamental concept of Python Programming
+Q10585,C1034,Calculate the limitations of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10586,C1023,Identify Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10587,C1000,What is a rank of a matrix?,Easy,ad-bc
+Q10588,C1031,True or False: Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10589,C1009,Explain information gain calculation.,Medium,Uses mathematical optimization for Decision Trees
+Q10590,C1022,What is a convolutional layer?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10591,C1026,Compare the limitations of Generative Adversarial Networks?,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10592,C1006,List Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10593,C1036,Define Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10594,C1012,Calculate the advantages of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10595,C1019,Explain Xavier initialization.,Hard,σ(x)(1-σ(x))
+Q10596,C1025,Describe the working mechanism of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10597,C1023,Identify Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10598,C1023,Prove the optimization of Recurrent Neural Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Recurrent Neural Networks
+Q10599,C1031,True or False: Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10600,C1012,What is Random Forests?,Easy,The fundamental concept of Random Forests
+Q10601,C1000,Explain the difference between rank and nullity.,Medium,Solve det(A-λI)=0
+Q10602,C1037,Explain the limitations of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10603,C1010,Identify K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10604,C1013,What is Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10605,C1028,Design the optimization of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10606,C1032,Prove the mathematical foundation of Cross-Validation in practical applications?,Hard,Requires understanding of underlying mathematics in Cross-Validation
+Q10607,C1021,Explain the limitations of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10608,C1016,Identify K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10609,C1029,Prove the implementation of GPT Models in practical applications?,Hard,Requires understanding of underlying mathematics in GPT Models
+Q10610,C1035,How does the working mechanism of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10611,C1032,What is Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10612,C1015,Identify Principal Component Analysis?,Easy,The fundamental concept of Principal Component Analysis
+Q10613,C1014,What is Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10614,C1028,True or False: BERT?,Easy,The fundamental concept of BERT
+Q10615,C1012,True or False: Random Forests?,Easy,The fundamental concept of Random Forests
+Q10616,C1038,Identify Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10617,C1022,What is a convolutional layer?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10618,C1014,Calculate the working mechanism of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10619,C1010,Compare the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10620,C1024,Design the implementation of LSTM Networks in practical applications?,Hard,Requires understanding of underlying mathematics in LSTM Networks
+Q10621,C1013,What is Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10622,C1015,Calculate the limitations of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10623,C1033,Define Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10624,C1027,Evaluate the mathematical foundation of Transformers in practical applications?,Hard,Requires understanding of underlying mathematics in Transformers
+Q10625,C1005,Calculate the limitations of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10626,C1003,How does the advantages of Statistics?,Medium,Uses mathematical optimization for Statistics
+Q10627,C1017,Identify Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10628,C1000,"What is the determinant of a 2x2 matrix [[a,b],[c,d]]?",Easy,ad-bc
+Q10629,C1035,List Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10630,C1011,Define Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10631,C1019,Define forward propagation.,Easy,Introduces non-linearity
+Q10632,C1017,Evaluate the mathematical foundation of Hierarchical Clustering in practical applications?,Hard,Requires understanding of underlying mathematics in Hierarchical Clustering
+Q10633,C1014,Calculate the advantages of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10634,C1019,Analyze computational graph.,Hard,σ(x)(1-σ(x))
+Q10635,C1010,Design the mathematical foundation of K-Nearest Neighbors in practical applications?,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10636,C1010,What is K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10637,C1027,How does the limitations of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10638,C1005,True or False: Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10639,C1022,How to handle overfitting in CNNs?,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10640,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10641,C1036,Explain the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10642,C1004,What is Python Programming?,Easy,The fundamental concept of Python Programming
+Q10643,C1033,How does the advantages of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10644,C1018,True or False: DBSCAN?,Easy,The fundamental concept of DBSCAN
+Q10645,C1026,Prove the mathematical foundation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10646,C1006,Design the mathematical foundation of Attention Mechanism in practical applications?,Hard,Requires understanding of underlying mathematics in Attention Mechanism
+Q10647,C1015,Calculate the advantages of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10648,C1021,How does the limitations of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10649,C1017,True or False: Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10650,C1007,Derive the normal equations.,Hard,Requires understanding of underlying mathematics in Linear Regression
+Q10651,C1011,What is Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10652,C1029,Explain the limitations of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10653,C1036,Identify Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10654,C1035,How does the limitations of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10655,C1033,Identify Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10656,C1033,Explain the working mechanism of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10657,C1008,Define Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10658,C1008,What is Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10659,C1028,How does the working mechanism of BERT?,Medium,Uses mathematical optimization for BERT
+Q10660,C1026,Evaluate the implementation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10661,C1035,Compare the working mechanism of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10662,C1006,Explain the limitations of Attention Mechanism?,Medium,Uses mathematical optimization for Attention Mechanism
+Q10663,C1018,Compare the advantages of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10664,C1036,Compare the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10665,C1017,Define Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10666,C1027,Compare the working mechanism of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10667,C1025,What is Autoencoders?,Easy,The fundamental concept of Autoencoders
+Q10668,C1000,What is singular value decomposition?,Medium,Solve det(A-λI)=0
+Q10669,C1019,What is an activation function?,Easy,Introduces non-linearity
+Q10670,C1038,Derive the implementation of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10671,C1022,Why use CNNs for images?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10672,C1010,Derive the implementation of K-Nearest Neighbors in practical applications?,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10673,C1026,Explain the working mechanism of Generative Adversarial Networks?,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10674,C1008,Identify Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10675,C1028,Identify BERT?,Easy,The fundamental concept of BERT
+Q10676,C1011,What is Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10677,C1030,Explain the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10678,C1022,Explain stride and padding.,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10679,C1014,Prove the optimization of Naive Bayes in practical applications?,Hard,Requires understanding of underlying mathematics in Naive Bayes
+Q10680,C1028,Define BERT?,Easy,The fundamental concept of BERT
+Q10681,C1036,How does the advantages of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10682,C1028,List BERT?,Easy,The fundamental concept of BERT
+Q10683,C1036,Explain the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10684,C1024,Describe the limitations of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10685,C1024,Calculate the limitations of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10686,C1036,Design the mathematical foundation of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10687,C1001,What is Bayes theorem?,Easy,The fundamental concept of Probability
+Q10688,C1029,Identify GPT Models?,Easy,The fundamental concept of GPT Models
+Q10689,C1036,True or False: Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10690,C1025,Derive the optimization of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10691,C1026,Design the implementation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10692,C1030,Compare the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10693,C1024,Calculate the limitations of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10694,C1032,Calculate the limitations of Cross-Validation?,Medium,Uses mathematical optimization for Cross-Validation
+Q10695,C1008,Calculate the advantages of Logistic Regression?,Medium,Uses mathematical optimization for Logistic Regression
+Q10696,C1019,Explain backpropagation algorithm.,Medium,Chain rule application
+Q10697,C1000,What is singular value decomposition?,Medium,Solve det(A-λI)=0
+Q10698,C1023,Explain the working mechanism of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10699,C1021,Evaluate the mathematical foundation of Backpropagation in practical applications?,Hard,Requires understanding of underlying mathematics in Backpropagation
+Q10700,C1031,Evaluate the implementation of Hyperparameter Tuning in practical applications?,Hard,Requires understanding of underlying mathematics in Hyperparameter Tuning
+Q10701,C1003,List Statistics?,Easy,The fundamental concept of Statistics
+Q10702,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10703,C1019,What is a perceptron?,Easy,Introduces non-linearity
+Q10704,C1012,True or False: Random Forests?,Easy,The fundamental concept of Random Forests
+Q10705,C1033,What is Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10706,C1016,Compare the working mechanism of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10707,C1012,Evaluate the implementation of Random Forests in practical applications?,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10708,C1022,What is transfer learning?,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10709,C1014,Identify Naive Bayes?,Easy,The fundamental concept of Naive Bayes
+Q10710,C1033,How does the limitations of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10711,C1031,Compare the working mechanism of Hyperparameter Tuning?,Medium,Uses mathematical optimization for Hyperparameter Tuning
+Q10712,C1034,What is Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10713,C1027,How does the working mechanism of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10714,C1017,Calculate the working mechanism of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10715,C1036,How does the limitations of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10716,C1000,Explain the geometric interpretation of SVD.,Hard,Symmetric matrices have orthogonal eigenvectors
+Q10717,C1036,Calculate the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10718,C1010,Describe the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10719,C1022,How to handle overfitting in CNNs?,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10720,C1020,Analyze the implementation of Activation Functions in practical applications?,Hard,Requires understanding of underlying mathematics in Activation Functions
+Q10721,C1025,How does the advantages of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10722,C1017,List Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10723,C1028,Design the implementation of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10724,C1035,Identify Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10725,C1005,How does the working mechanism of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10726,C1012,Describe the working mechanism of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10727,C1031,Analyze the optimization of Hyperparameter Tuning in practical applications?,Hard,Requires understanding of underlying mathematics in Hyperparameter Tuning
+Q10728,C1035,Calculate the advantages of Self-Supervised Learning?,Medium,Uses mathematical optimization for Self-Supervised Learning
+Q10729,C1007,How do you handle multicollinearity?,Medium,Uses mathematical optimization for Linear Regression
+Q10730,C1027,List Transformers?,Easy,The fundamental concept of Transformers
+Q10731,C1024,How does the working mechanism of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10732,C1003,Define Statistics?,Easy,The fundamental concept of Statistics
+Q10733,C1023,Define Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10734,C1010,Design the implementation of K-Nearest Neighbors in practical applications?,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10735,C1015,Compare the working mechanism of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10736,C1024,Describe the advantages of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10737,C1038,What is Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10738,C1017,How does the working mechanism of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10739,C1005,Identify Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10740,C1033,Compare the working mechanism of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10741,C1038,Identify Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10742,C1013,Identify Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10743,C1035,List Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10744,C1011,Describe the limitations of Support Vector Machines?,Medium,Uses mathematical optimization for Support Vector Machines
+Q10745,C1004,True or False: Python Programming?,Easy,The fundamental concept of Python Programming
+Q10746,C1009,What is entropy in decision trees?,Easy,The fundamental concept of Decision Trees
+Q10747,C1037,Prove the implementation of Neural Architecture Search in practical applications?,Hard,Requires understanding of underlying mathematics in Neural Architecture Search
+Q10748,C1014,Describe the working mechanism of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10749,C1027,Identify Transformers?,Easy,The fundamental concept of Transformers
+Q10750,C1036,True or False: Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10751,C1037,List Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10752,C1017,Identify Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10753,C1005,List Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10754,C1036,Analyze the mathematical foundation of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10755,C1021,Identify Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10756,C1024,Describe the limitations of LSTM Networks?,Medium,Uses mathematical optimization for LSTM Networks
+Q10757,C1025,Derive the optimization of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10758,C1015,Describe the advantages of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10759,C1034,How does the limitations of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10760,C1013,Define Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10761,C1029,True or False: GPT Models?,Easy,The fundamental concept of GPT Models
+Q10762,C1029,List GPT Models?,Easy,The fundamental concept of GPT Models
+Q10763,C1022,What is pooling?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10764,C1006,Describe the limitations of Attention Mechanism?,Medium,Uses mathematical optimization for Attention Mechanism
+Q10765,C1038,Calculate the working mechanism of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10766,C1034,Identify Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10767,C1015,Calculate the limitations of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10768,C1010,Analyze the implementation of K-Nearest Neighbors in practical applications?,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10769,C1036,Design the optimization of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10770,C1025,List Autoencoders?,Easy,The fundamental concept of Autoencoders
+Q10771,C1037,Evaluate the mathematical foundation of Neural Architecture Search in practical applications?,Hard,Requires understanding of underlying mathematics in Neural Architecture Search
+Q10772,C1025,Compare the advantages of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10773,C1009,What is Gini impurity?,Easy,The fundamental concept of Decision Trees
+Q10774,C1034,Explain the working mechanism of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10775,C1027,Explain the limitations of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10776,C1006,True or False: Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10777,C1016,Define K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10778,C1005,Define Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10779,C1033,What is Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10780,C1016,Analyze the mathematical foundation of K-Means Clustering in practical applications?,Hard,Requires understanding of underlying mathematics in K-Means Clustering
+Q10781,C1006,True or False: Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10782,C1002,True or False: Calculus?,Easy,The fundamental concept of Calculus
+Q10783,C1011,How does the advantages of Support Vector Machines?,Medium,Uses mathematical optimization for Support Vector Machines
+Q10784,C1033,How does the working mechanism of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10785,C1011,True or False: Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10786,C1012,Compare the advantages of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10787,C1010,List K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10788,C1002,What is Calculus?,Easy,The fundamental concept of Calculus
+Q10789,C1009,How does a decision tree split data?,Easy,The fundamental concept of Decision Trees
+Q10790,C1012,Analyze the optimization of Random Forests in practical applications?,Hard,Requires understanding of underlying mathematics in Random Forests
+Q10791,C1031,How does the working mechanism of Hyperparameter Tuning?,Medium,Uses mathematical optimization for Hyperparameter Tuning
+Q10792,C1028,Describe the working mechanism of BERT?,Medium,Uses mathematical optimization for BERT
+Q10793,C1038,Describe the limitations of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10794,C1011,Prove the mathematical foundation of Support Vector Machines in practical applications?,Hard,Requires understanding of underlying mathematics in Support Vector Machines
+Q10795,C1016,List K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10796,C1001,Explain central limit theorem.,Medium,Uses mathematical optimization for Probability
+Q10797,C1026,Define Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10798,C1032,Identify Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10799,C1033,Compare the limitations of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10800,C1003,What is Statistics?,Easy,The fundamental concept of Statistics
+Q10801,C1027,Explain the limitations of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10802,C1008,True or False: Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10803,C1016,Calculate the limitations of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10804,C1004,How does the limitations of Python Programming?,Medium,Uses mathematical optimization for Python Programming
+Q10805,C1035,What is Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10806,C1025,List Autoencoders?,Easy,The fundamental concept of Autoencoders
+Q10807,C1038,Analyze the optimization of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10808,C1026,List Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10809,C1002,Define Calculus?,Easy,The fundamental concept of Calculus
+Q10810,C1038,Prove the mathematical foundation of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10811,C1032,Prove the mathematical foundation of Cross-Validation in practical applications?,Hard,Requires understanding of underlying mathematics in Cross-Validation
+Q10812,C1007,What is the objective function in linear regression?,Easy,The fundamental concept of Linear Regression
+Q10813,C1020,Explain the advantages of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10814,C1016,Design the optimization of K-Means Clustering in practical applications?,Hard,Requires understanding of underlying mathematics in K-Means Clustering
+Q10815,C1010,Identify K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10816,C1032,Define Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10817,C1024,Design the optimization of LSTM Networks in practical applications?,Hard,Requires understanding of underlying mathematics in LSTM Networks
+Q10818,C1028,Evaluate the optimization of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10819,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10820,C1030,What is Diffusion Models?,Easy,The fundamental concept of Diffusion Models
+Q10821,C1028,What is BERT?,Easy,The fundamental concept of BERT
+Q10822,C1028,Explain the advantages of BERT?,Medium,Uses mathematical optimization for BERT
+Q10823,C1022,How to handle overfitting in CNNs?,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10824,C1022,Analyze computational complexity.,Hard,Requires understanding of underlying mathematics in Convolutional Neural Networks
+Q10825,C1037,True or False: Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10826,C1023,Evaluate the mathematical foundation of Recurrent Neural Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Recurrent Neural Networks
+Q10827,C1007,What is the objective function in linear regression?,Easy,The fundamental concept of Linear Regression
+Q10828,C1000,What is a rank of a matrix?,Easy,ad-bc
+Q10829,C1017,Calculate the advantages of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10830,C1026,Compare the working mechanism of Generative Adversarial Networks?,Medium,Uses mathematical optimization for Generative Adversarial Networks
+Q10831,C1038,Evaluate the optimization of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10832,C1002,Identify Calculus?,Easy,The fundamental concept of Calculus
+Q10833,C1034,Define Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10834,C1028,Compare the working mechanism of BERT?,Medium,Uses mathematical optimization for BERT
+Q10835,C1017,Evaluate the optimization of Hierarchical Clustering in practical applications?,Hard,Requires understanding of underlying mathematics in Hierarchical Clustering
+Q10836,C1011,Calculate the limitations of Support Vector Machines?,Medium,Uses mathematical optimization for Support Vector Machines
+Q10837,C1017,True or False: Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10838,C1029,Explain the limitations of GPT Models?,Medium,Uses mathematical optimization for GPT Models
+Q10839,C1030,Calculate the advantages of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10840,C1010,Calculate the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10841,C1017,Identify Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10842,C1012,How does the working mechanism of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10843,C1031,List Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10844,C1030,Explain the limitations of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10845,C1036,Define Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10846,C1022,What is a convolutional layer?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10847,C1025,Describe the working mechanism of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10848,C1021,Compare the working mechanism of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10849,C1036,Define Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10850,C1003,Identify Statistics?,Easy,The fundamental concept of Statistics
+Q10851,C1002,Evaluate the optimization of Calculus in practical applications?,Hard,Requires understanding of underlying mathematics in Calculus
+Q10852,C1007,How do you handle multicollinearity?,Medium,Uses mathematical optimization for Linear Regression
+Q10853,C1032,True or False: Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10854,C1015,Compare the working mechanism of Principal Component Analysis?,Medium,Uses mathematical optimization for Principal Component Analysis
+Q10855,C1017,How does the limitations of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10856,C1004,Define Python Programming?,Easy,The fundamental concept of Python Programming
+Q10857,C1004,Compare the working mechanism of Python Programming?,Medium,Uses mathematical optimization for Python Programming
+Q10858,C1026,Derive the optimization of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10859,C1023,Calculate the working mechanism of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10860,C1021,Compare the advantages of Backpropagation?,Medium,Uses mathematical optimization for Backpropagation
+Q10861,C1020,How does the working mechanism of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10862,C1033,Identify Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10863,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10864,C1007,What is the assumption about errors?,Easy,The fundamental concept of Linear Regression
+Q10865,C1020,True or False: Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10866,C1026,Design the mathematical foundation of Generative Adversarial Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Generative Adversarial Networks
+Q10867,C1029,Design the optimization of GPT Models in practical applications?,Hard,Requires understanding of underlying mathematics in GPT Models
+Q10868,C1006,Identify Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10869,C1010,Compare the limitations of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10870,C1038,Evaluate the implementation of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10871,C1038,Evaluate the optimization of Meta Learning in practical applications?,Hard,Requires understanding of underlying mathematics in Meta Learning
+Q10872,C1006,True or False: Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10873,C1002,What is Calculus?,Easy,The fundamental concept of Calculus
+Q10874,C1035,Identify Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10875,C1036,List Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10876,C1020,How does the advantages of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10877,C1032,Prove the mathematical foundation of Cross-Validation in practical applications?,Hard,Requires understanding of underlying mathematics in Cross-Validation
+Q10878,C1027,Identify Transformers?,Easy,The fundamental concept of Transformers
+Q10879,C1018,Design the mathematical foundation of DBSCAN in practical applications?,Hard,Requires understanding of underlying mathematics in DBSCAN
+Q10880,C1035,True or False: Self-Supervised Learning?,Easy,The fundamental concept of Self-Supervised Learning
+Q10881,C1000,Explain the geometric interpretation of SVD.,Hard,Symmetric matrices have orthogonal eigenvectors
+Q10882,C1019,Explain backpropagation algorithm.,Medium,Chain rule application
+Q10883,C1032,List Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10884,C1013,Evaluate the mathematical foundation of Gradient Boosting in practical applications?,Hard,Requires understanding of underlying mathematics in Gradient Boosting
+Q10885,C1008,Analyze the implementation of Logistic Regression in practical applications?,Hard,Requires understanding of underlying mathematics in Logistic Regression
+Q10886,C1026,Identify Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10887,C1011,List Support Vector Machines?,Easy,The fundamental concept of Support Vector Machines
+Q10888,C1009,Explain information gain calculation.,Medium,Uses mathematical optimization for Decision Trees
+Q10889,C1037,Identify Neural Architecture Search?,Easy,The fundamental concept of Neural Architecture Search
+Q10890,C1013,Evaluate the optimization of Gradient Boosting in practical applications?,Hard,Requires understanding of underlying mathematics in Gradient Boosting
+Q10891,C1008,True or False: Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10892,C1014,Analyze the implementation of Naive Bayes in practical applications?,Hard,Requires understanding of underlying mathematics in Naive Bayes
+Q10893,C1020,Define Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10894,C1021,List Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10895,C1032,What is Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10896,C1036,Explain the advantages of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10897,C1020,Describe the working mechanism of Activation Functions?,Medium,Uses mathematical optimization for Activation Functions
+Q10898,C1038,Calculate the advantages of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10899,C1010,True or False: K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10900,C1027,True or False: Transformers?,Easy,The fundamental concept of Transformers
+Q10901,C1003,What is Statistics?,Easy,The fundamental concept of Statistics
+Q10902,C1016,List K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10903,C1030,Prove the implementation of Diffusion Models in practical applications?,Hard,Requires understanding of underlying mathematics in Diffusion Models
+Q10904,C1025,Derive the implementation of Autoencoders in practical applications?,Hard,Requires understanding of underlying mathematics in Autoencoders
+Q10905,C1019,What is a perceptron?,Easy,Introduces non-linearity
+Q10906,C1019,Explain backpropagation algorithm.,Medium,Chain rule application
+Q10907,C1007,Compare OLS vs gradient descent.,Hard,Requires understanding of underlying mathematics in Linear Regression
+Q10908,C1027,What is Transformers?,Easy,The fundamental concept of Transformers
+Q10909,C1022,What is a convolutional layer?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10910,C1007,What is the assumption about errors?,Easy,The fundamental concept of Linear Regression
+Q10911,C1021,Evaluate the mathematical foundation of Backpropagation in practical applications?,Hard,Requires understanding of underlying mathematics in Backpropagation
+Q10912,C1031,How does the working mechanism of Hyperparameter Tuning?,Medium,Uses mathematical optimization for Hyperparameter Tuning
+Q10913,C1019,What is vanishing gradient problem?,Medium,Chain rule application
+Q10914,C1014,Compare the advantages of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10915,C1032,Define Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10916,C1028,Evaluate the implementation of BERT in practical applications?,Hard,Requires understanding of underlying mathematics in BERT
+Q10917,C1017,Calculate the limitations of Hierarchical Clustering?,Medium,Uses mathematical optimization for Hierarchical Clustering
+Q10918,C1036,List Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10919,C1031,Explain the advantages of Hyperparameter Tuning?,Medium,Uses mathematical optimization for Hyperparameter Tuning
+Q10920,C1026,List Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10921,C1022,Why use CNNs for images?,Easy,The fundamental concept of Convolutional Neural Networks
+Q10922,C1003,Define Statistics?,Easy,The fundamental concept of Statistics
+Q10923,C1024,Identify LSTM Networks?,Easy,The fundamental concept of LSTM Networks
+Q10924,C1023,Define Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10925,C1034,Define Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10926,C1010,Identify K-Nearest Neighbors?,Easy,The fundamental concept of K-Nearest Neighbors
+Q10927,C1028,How does the working mechanism of BERT?,Medium,Uses mathematical optimization for BERT
+Q10928,C1003,True or False: Statistics?,Easy,The fundamental concept of Statistics
+Q10929,C1023,Explain the limitations of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10930,C1006,Define Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10931,C1025,How does the working mechanism of Autoencoders?,Medium,Uses mathematical optimization for Autoencoders
+Q10932,C1025,List Autoencoders?,Easy,The fundamental concept of Autoencoders
+Q10933,C1009,How does a decision tree split data?,Easy,The fundamental concept of Decision Trees
+Q10934,C1005,Describe the working mechanism of Distance Metrics?,Medium,Uses mathematical optimization for Distance Metrics
+Q10935,C1036,Derive the implementation of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10936,C1004,List Python Programming?,Easy,The fundamental concept of Python Programming
+Q10937,C1010,Design the optimization of K-Nearest Neighbors in practical applications?,Hard,Requires understanding of underlying mathematics in K-Nearest Neighbors
+Q10938,C1016,Explain the working mechanism of K-Means Clustering?,Medium,Uses mathematical optimization for K-Means Clustering
+Q10939,C1010,Calculate the advantages of K-Nearest Neighbors?,Medium,Uses mathematical optimization for K-Nearest Neighbors
+Q10940,C1006,Define Attention Mechanism?,Easy,The fundamental concept of Attention Mechanism
+Q10941,C1037,Describe the working mechanism of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10942,C1016,Define K-Means Clustering?,Easy,The fundamental concept of K-Means Clustering
+Q10943,C1022,Explain stride and padding.,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10944,C1001,What is Markov inequality?,Medium,Uses mathematical optimization for Probability
+Q10945,C1031,Prove the implementation of Hyperparameter Tuning in practical applications?,Hard,Requires understanding of underlying mathematics in Hyperparameter Tuning
+Q10946,C1014,How does the advantages of Naive Bayes?,Medium,Uses mathematical optimization for Naive Bayes
+Q10947,C1038,Define Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10948,C1038,True or False: Meta Learning?,Easy,The fundamental concept of Meta Learning
+Q10949,C1033,True or False: Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10950,C1002,Explain the working mechanism of Calculus?,Medium,Uses mathematical optimization for Calculus
+Q10951,C1002,Describe the limitations of Calculus?,Medium,Uses mathematical optimization for Calculus
+Q10952,C1034,Compare the advantages of Ensemble Methods?,Medium,Uses mathematical optimization for Ensemble Methods
+Q10953,C1020,Analyze the implementation of Activation Functions in practical applications?,Hard,Requires understanding of underlying mathematics in Activation Functions
+Q10954,C1023,List Recurrent Neural Networks?,Easy,The fundamental concept of Recurrent Neural Networks
+Q10955,C1033,What is Model Evaluation?,Easy,The fundamental concept of Model Evaluation
+Q10956,C1030,Calculate the working mechanism of Diffusion Models?,Medium,Uses mathematical optimization for Diffusion Models
+Q10957,C1009,Compare ID3 vs C4.5 vs CART.,Hard,Requires understanding of underlying mathematics in Decision Trees
+Q10958,C1005,List Distance Metrics?,Easy,The fundamental concept of Distance Metrics
+Q10959,C1023,Calculate the limitations of Recurrent Neural Networks?,Medium,Uses mathematical optimization for Recurrent Neural Networks
+Q10960,C1028,How does the advantages of BERT?,Medium,Uses mathematical optimization for BERT
+Q10961,C1002,Analyze the optimization of Calculus in practical applications?,Hard,Requires understanding of underlying mathematics in Calculus
+Q10962,C1018,Compare the advantages of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10963,C1020,Derive the optimization of Activation Functions in practical applications?,Hard,Requires understanding of underlying mathematics in Activation Functions
+Q10964,C1004,How does the working mechanism of Python Programming?,Medium,Uses mathematical optimization for Python Programming
+Q10965,C1012,Define Random Forests?,Easy,The fundamental concept of Random Forests
+Q10966,C1032,What is Cross-Validation?,Easy,The fundamental concept of Cross-Validation
+Q10967,C1012,Calculate the limitations of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10968,C1003,Define Statistics?,Easy,The fundamental concept of Statistics
+Q10969,C1033,Explain the limitations of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10970,C1036,Compare the working mechanism of Explainable AI?,Medium,Uses mathematical optimization for Explainable AI
+Q10971,C1029,True or False: GPT Models?,Easy,The fundamental concept of GPT Models
+Q10972,C1026,Identify Generative Adversarial Networks?,Easy,The fundamental concept of Generative Adversarial Networks
+Q10973,C1033,Compare the advantages of Model Evaluation?,Medium,Uses mathematical optimization for Model Evaluation
+Q10974,C1013,Identify Gradient Boosting?,Easy,The fundamental concept of Gradient Boosting
+Q10975,C1032,Derive the mathematical foundation of Cross-Validation in practical applications?,Hard,Requires understanding of underlying mathematics in Cross-Validation
+Q10976,C1036,Evaluate the mathematical foundation of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10977,C1002,Compare the limitations of Calculus?,Medium,Uses mathematical optimization for Calculus
+Q10978,C1021,List Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10979,C1008,Define Logistic Regression?,Easy,The fundamental concept of Logistic Regression
+Q10980,C1017,List Hierarchical Clustering?,Easy,The fundamental concept of Hierarchical Clustering
+Q10981,C1018,Describe the limitations of DBSCAN?,Medium,Uses mathematical optimization for DBSCAN
+Q10982,C1021,What is Backpropagation?,Easy,The fundamental concept of Backpropagation
+Q10983,C1034,What is Ensemble Methods?,Easy,The fundamental concept of Ensemble Methods
+Q10984,C1022,How to handle overfitting in CNNs?,Medium,Uses mathematical optimization for Convolutional Neural Networks
+Q10985,C1020,True or False: Activation Functions?,Easy,The fundamental concept of Activation Functions
+Q10986,C1018,Evaluate the optimization of DBSCAN in practical applications?,Hard,Requires understanding of underlying mathematics in DBSCAN
+Q10987,C1003,Calculate the advantages of Statistics?,Medium,Uses mathematical optimization for Statistics
+Q10988,C1023,Prove the mathematical foundation of Recurrent Neural Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Recurrent Neural Networks
+Q10989,C1023,Design the optimization of Recurrent Neural Networks in practical applications?,Hard,Requires understanding of underlying mathematics in Recurrent Neural Networks
+Q10990,C1015,Prove the mathematical foundation of Principal Component Analysis in practical applications?,Hard,Requires understanding of underlying mathematics in Principal Component Analysis
+Q10991,C1031,What is Hyperparameter Tuning?,Easy,The fundamental concept of Hyperparameter Tuning
+Q10992,C1038,How does the limitations of Meta Learning?,Medium,Uses mathematical optimization for Meta Learning
+Q10993,C1036,List Explainable AI?,Easy,The fundamental concept of Explainable AI
+Q10994,C1012,List Random Forests?,Easy,The fundamental concept of Random Forests
+Q10995,C1036,Evaluate the implementation of Explainable AI in practical applications?,Hard,Requires understanding of underlying mathematics in Explainable AI
+Q10996,C1027,Calculate the limitations of Transformers?,Medium,Uses mathematical optimization for Transformers
+Q10997,C1037,Describe the advantages of Neural Architecture Search?,Medium,Uses mathematical optimization for Neural Architecture Search
+Q10998,C1012,Calculate the working mechanism of Random Forests?,Medium,Uses mathematical optimization for Random Forests
+Q10999,C1034,Derive the mathematical foundation of Ensemble Methods in practical applications?,Hard,Requires understanding of underlying mathematics in Ensemble Methods
