@@ -17,7 +17,6 @@ AI Tutor is an intelligent, multi-modal recommendation system that provides pers
 - 👥 Student Clustering - Groups students based on learning behavior patterns
 - 🔍 Similarity Engine - Identifies peers with similar learning profiles
 - 🎯 Smart Recommendations - Provides personalized learning resource suggestions
-- 🗺️ Learning Paths- Generates structured study sequences with prerequisite mapping
 ---
 
 ## 🛠️ Tech Stack
